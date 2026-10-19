@@ -8,3 +8,25 @@ if error occurs
 
 git config --global user.name "Your name"
 git config --global user.email "Your email id"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+git init
+git add .
+git remote add origin  https://github.com/NileshSuryatale009/TESTAPPLICATIONS.git
+git commit -m "message"
+git branch -m main
+git push -u origin main
+git push
+git add .
