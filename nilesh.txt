@@ -20,7 +20,7 @@ git config --global user.email "Your email id"
 
 
 
-
+#all git commands that are useful for push the code to the github account
 
 git init
 git add .
@@ -30,3 +30,11 @@ git branch -m main
 git push -u origin main
 git push
 git add .
+
+#if you want to add the updated file to github then you can write this commands
+git init
+git add .
+git commit -m "message"
+git branch -m main
+git push -u origin main
+
