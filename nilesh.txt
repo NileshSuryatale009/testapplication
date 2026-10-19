@@ -1,0 +1,10 @@
+git init --initialize local repositiry
+git add .    --(.)means all files
+git commit -m "message"   saves
+git branch -m main   create local main branch
+git remote add origin https://github.com/NileshSuryatale009/testapplication.git  add a cloud repositiory created on github
+
+if error occurs
+
+git config --global user.name "Your name"
+git config --global user.email "Your email id"
